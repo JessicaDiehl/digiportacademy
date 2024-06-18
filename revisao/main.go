@@ -6,6 +6,4 @@ import (
 
 func main() {
 
-//	fmt.Println("Hello")
-	revisao.Funcao1()
 }
