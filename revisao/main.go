@@ -1,8 +1,11 @@
 package main
 
-import "fmt"
+import (
+	"github.com/JessicaDiehl/digiportacademy/revisao.git/revisao"
+)
 
 func main() {
 
-	fmt.Println("Hello")
+//	fmt.Println("Hello")
+	revisao.Funcao1()
 }
